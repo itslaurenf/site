@@ -1,0 +1,1062 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="laurenfan.com" resolutions="1x" timestamp="1708493288755">
+  <folder name="css">
+    <file name="site_global.css" crc="350485874"/>
+    <file name="master_a-master.css" crc="4123243429" ref="about:year-in-review:animatic:video:spinach:friends-fam:video---commercial:misc-animated:lanterns:personal-vids:video---narrative:photo:video---personal:experience:floormate:contact:defrosty:compass:move-on:stride:my-best-friend:penguin_animation:cbsi-intern-video:pigeons:wes:design:csa:flower-power:mgm:design-copy-2:shutter:rook:design-temp:don-t-look-down"/>
+    <file name="master_video-landing-pg.css" crc="440452984" ref="cbsi-intern-video-copy"/>
+    <file name="about.css" crc="3901106516" ref="about"/>
+    <file name="year-in-review.css" crc="4157188991" ref="year-in-review"/>
+    <file name="animatic.css" crc="4021918831" ref="animatic"/>
+    <file name="video.css" crc="3852753433" ref="video"/>
+    <file name="spinach.css" crc="3925203106" ref="spinach"/>
+    <file name="friends-fam.css" crc="306860353" ref="friends-fam"/>
+    <file name="video---commercial.css" crc="4053642047" ref="video---commercial"/>
+    <file name="misc-animated.css" crc="85330963" ref="misc-animated"/>
+    <file name="lanterns.css" crc="315330580" ref="lanterns"/>
+    <file name="personal-vids.css" crc="4138700832" ref="personal-vids"/>
+    <file name="video---narrative.css" crc="306374013" ref="video---narrative"/>
+    <file name="photo.css" crc="4072859546" ref="photo"/>
+    <file name="video---personal.css" crc="4072011763" ref="video---personal"/>
+    <file name="experience.css" crc="140432580" ref="experience"/>
+    <file name="floormate.css" crc="441978611" ref="floormate"/>
+    <file name="contact.css" crc="4207405646" ref="contact"/>
+    <file name="defrosty.css" crc="4142740871" ref="defrosty"/>
+    <file name="compass.css" crc="527986907" ref="compass"/>
+    <file name="move-on.css" crc="3974879321" ref="move-on"/>
+    <file name="stride.css" crc="3891656516" ref="stride"/>
+    <file name="cbsi-intern-video-copy.css" crc="105778815" ref="cbsi-intern-video-copy"/>
+    <file name="my-best-friend.css" crc="193164216" ref="my-best-friend"/>
+    <file name="penguin_animation.css" crc="373471525" ref="penguin_animation"/>
+    <file name="cbsi-intern-video.css" crc="22756029" ref="cbsi-intern-video"/>
+    <file name="pigeons.css" crc="499766368" ref="pigeons"/>
+    <file name="wes.css" crc="69988367" ref="wes"/>
+    <file name="design.css" crc="4294657874" ref="design"/>
+    <file name="csa.css" crc="424854450" ref="csa"/>
+    <file name="flower-power.css" crc="3989751406" ref="flower-power"/>
+    <file name="mgm.css" crc="4069047081" ref="mgm"/>
+    <file name="design-copy-2.css" crc="3779927186" ref="design-copy-2"/>
+    <file name="shutter.css" crc="436976752" ref="shutter"/>
+    <file name="rook.css" crc="291205732" ref="rook"/>
+    <file name="design-temp.css" crc="512742674" ref="design-temp"/>
+    <file name="index.css" crc="4033140922" ref="index"/>
+    <file name="don-t-look-down.css" crc="4156174908" ref="don-t-look-down"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:video:photo:experience:contact:compass:cbsi-intern-video-copy:cbsi-intern-video:design:mgm:rook:year-in-review:don-t-look-down:spinach:lanterns:move-on:my-best-friend:pigeons:csa:design-copy-2:design-temp:video---commercial:video---narrative:video---personal:floormate:stride:defrosty:penguin_animation:wes:flower-power:shutter:friends-fam:animatic:personal-vids:misc-animated"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about:video:photo:experience:contact:compass:cbsi-intern-video-copy:cbsi-intern-video:design:mgm:rook:year-in-review:don-t-look-down:spinach:lanterns:move-on:my-best-friend:pigeons:csa:design-copy-2:design-temp:video---commercial:video---narrative:video---personal:floormate:stride:defrosty:penguin_animation:wes:flower-power:shutter:friends-fam:animatic:personal-vids:misc-animated"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:video:photo:experience:contact:compass:cbsi-intern-video-copy:cbsi-intern-video:design:mgm:rook:year-in-review:don-t-look-down:spinach:lanterns:move-on:my-best-friend:pigeons:csa:design-copy-2:design-temp:video---commercial:video---narrative:video---personal:floormate:stride:defrosty:penguin_animation:wes:flower-power:shutter:friends-fam:animatic:personal-vids:misc-animated"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:about:video:photo:experience:contact:compass:cbsi-intern-video-copy:cbsi-intern-video:design:mgm:rook:year-in-review:don-t-look-down:spinach:lanterns:move-on:my-best-friend:pigeons:csa:design-copy-2:design-temp:video---commercial:video---narrative:video---personal:floormate:stride:defrosty:penguin_animation:wes:flower-power:shutter:friends-fam:animatic:personal-vids:misc-animated"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about:video:photo:experience:contact:compass:cbsi-intern-video-copy:cbsi-intern-video:design:mgm:rook:year-in-review:don-t-look-down:spinach:lanterns:move-on:my-best-friend:pigeons:csa:design-copy-2:design-temp:video---commercial:video---narrative:video---personal:floormate:stride:defrosty:penguin_animation:wes:flower-power:shutter:friends-fam:animatic:personal-vids:misc-animated"/>
+    <file name="require.js" crc="4177726516" ref="index:about:video:photo:experience:contact:compass:cbsi-intern-video-copy:cbsi-intern-video:design:mgm:rook:year-in-review:don-t-look-down:spinach:lanterns:move-on:my-best-friend:pigeons:csa:design-copy-2:design-temp:video---commercial:video---narrative:video---personal:floormate:stride:defrosty:penguin_animation:wes:flower-power:shutter:friends-fam:animatic:personal-vids:misc-animated"/>
+    <file name="webpro.js" crc="3856315280" ref="contact:design-copy-2"/>
+    <file name="form_check.php" crc="4050423521" ref="contact"/>
+    <file name="form_process.php" crc="3946589668" ref="contact"/>
+    <file name="form-u89571.php" crc="4161547340" ref="contact"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="design-copy-2"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="82895743" ref="index"/>
+    <file name="pasted-svg-152713x137.svg" crc="320537721" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 152713x137_poster_.png" crc="12636702" ref="index"/>
+    <file name="pasted-svg-215876x215.svg" crc="301953861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 215876x215_poster_.png" crc="439964773" ref="index"/>
+    <file name="pasted-svg-198526x176.svg" crc="287093541" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 198526x176_poster_.png" crc="465867462" ref="index"/>
+    <file name="pasted-svg-175876x175.svg" crc="477701935" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 175876x175_poster_.png" crc="4109903053" ref="index"/>
+    <file name="pasted-svg-187878x187.svg" crc="3950932447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 187878x187_poster_.png" crc="89470380" ref="index"/>
+    <file name="pasted-svg-203867x186.svg" crc="375341829" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 203867x186_poster_.png" crc="210495457" ref="index"/>
+    <file name="laurenfan_header_generic.png" crc="4292181058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="laurenfan_header.png" crc="456646770" seo="true" ref="about:video:photo:experience:contact:compass:cbsi-intern-video:design:mgm:rook:year-in-review:don-t-look-down:spinach:lanterns:move-on:my-best-friend:pigeons:csa:design-copy-2:design-temp:video---commercial:video---narrative:video---personal:floormate:stride:defrosty:penguin_animation:wes:flower-power:shutter:friends-fam:animatic:personal-vids:misc-animated">
+      <caption webpage="penguin_animation" alt=""/>
+      <caption webpage="floormate" alt=""/>
+      <caption webpage="spinach" alt=""/>
+      <caption webpage="wes" alt=""/>
+      <caption webpage="compass" alt=""/>
+      <caption webpage="don-t-look-down" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="my-best-friend" alt=""/>
+      <caption webpage="csa" alt=""/>
+      <caption webpage="move-on" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="flower-power" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="lanterns" alt=""/>
+      <caption webpage="design-temp" alt=""/>
+      <caption webpage="defrosty" alt=""/>
+      <caption webpage="shutter" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="year-in-review" alt=""/>
+      <caption webpage="personal-vids" alt=""/>
+      <caption webpage="video---commercial" alt=""/>
+      <caption webpage="pigeons" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="photo" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="mgm" alt=""/>
+      <caption webpage="friends-fam" alt=""/>
+      <caption webpage="cbsi-intern-video" alt=""/>
+      <caption webpage="video---personal" alt=""/>
+      <caption webpage="video---narrative" alt=""/>
+      <caption webpage="stride" alt=""/>
+      <caption webpage="animatic" alt=""/>
+      <caption webpage="misc-animated" alt=""/>
+    </file>
+    <file name="hexheader_red_accent.svg" crc="4043669714" seo="true" ref="about:video:photo:experience:contact:compass:cbsi-intern-video:design:mgm:rook:year-in-review:don-t-look-down:spinach:lanterns:move-on:my-best-friend:pigeons:csa:design-copy-2:design-temp:video---commercial:video---narrative:video---personal:floormate:stride:defrosty:penguin_animation:wes:flower-power:shutter:friends-fam:animatic:personal-vids:misc-animated">
+      <caption webpage="penguin_animation" alt=""/>
+      <caption webpage="penguin_animation" alt=""/>
+      <caption webpage="penguin_animation" alt=""/>
+      <caption webpage="floormate" alt=""/>
+      <caption webpage="floormate" alt=""/>
+      <caption webpage="floormate" alt=""/>
+      <caption webpage="spinach" alt=""/>
+      <caption webpage="spinach" alt=""/>
+      <caption webpage="spinach" alt=""/>
+      <caption webpage="wes" alt=""/>
+      <caption webpage="wes" alt=""/>
+      <caption webpage="wes" alt=""/>
+      <caption webpage="compass" alt=""/>
+      <caption webpage="compass" alt=""/>
+      <caption webpage="compass" alt=""/>
+      <caption webpage="don-t-look-down" alt=""/>
+      <caption webpage="don-t-look-down" alt=""/>
+      <caption webpage="don-t-look-down" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="my-best-friend" alt=""/>
+      <caption webpage="my-best-friend" alt=""/>
+      <caption webpage="my-best-friend" alt=""/>
+      <caption webpage="csa" alt=""/>
+      <caption webpage="csa" alt=""/>
+      <caption webpage="csa" alt=""/>
+      <caption webpage="move-on" alt=""/>
+      <caption webpage="move-on" alt=""/>
+      <caption webpage="move-on" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="flower-power" alt=""/>
+      <caption webpage="flower-power" alt=""/>
+      <caption webpage="flower-power" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="lanterns" alt=""/>
+      <caption webpage="lanterns" alt=""/>
+      <caption webpage="lanterns" alt=""/>
+      <caption webpage="design-temp" alt=""/>
+      <caption webpage="design-temp" alt=""/>
+      <caption webpage="design-temp" alt=""/>
+      <caption webpage="defrosty" alt=""/>
+      <caption webpage="defrosty" alt=""/>
+      <caption webpage="defrosty" alt=""/>
+      <caption webpage="shutter" alt=""/>
+      <caption webpage="shutter" alt=""/>
+      <caption webpage="shutter" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="year-in-review" alt=""/>
+      <caption webpage="year-in-review" alt=""/>
+      <caption webpage="year-in-review" alt=""/>
+      <caption webpage="personal-vids" alt=""/>
+      <caption webpage="personal-vids" alt=""/>
+      <caption webpage="personal-vids" alt=""/>
+      <caption webpage="video---commercial" alt=""/>
+      <caption webpage="video---commercial" alt=""/>
+      <caption webpage="video---commercial" alt=""/>
+      <caption webpage="pigeons" alt=""/>
+      <caption webpage="pigeons" alt=""/>
+      <caption webpage="pigeons" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="photo" alt=""/>
+      <caption webpage="photo" alt=""/>
+      <caption webpage="photo" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="mgm" alt=""/>
+      <caption webpage="mgm" alt=""/>
+      <caption webpage="mgm" alt=""/>
+      <caption webpage="friends-fam" alt=""/>
+      <caption webpage="friends-fam" alt=""/>
+      <caption webpage="friends-fam" alt=""/>
+      <caption webpage="cbsi-intern-video" alt=""/>
+      <caption webpage="cbsi-intern-video" alt=""/>
+      <caption webpage="cbsi-intern-video" alt=""/>
+      <caption webpage="video---personal" alt=""/>
+      <caption webpage="video---personal" alt=""/>
+      <caption webpage="video---personal" alt=""/>
+      <caption webpage="video---narrative" alt=""/>
+      <caption webpage="video---narrative" alt=""/>
+      <caption webpage="video---narrative" alt=""/>
+      <caption webpage="stride" alt=""/>
+      <caption webpage="stride" alt=""/>
+      <caption webpage="stride" alt=""/>
+      <caption webpage="animatic" alt=""/>
+      <caption webpage="animatic" alt=""/>
+      <caption webpage="animatic" alt=""/>
+      <caption webpage="misc-animated" alt=""/>
+      <caption webpage="misc-animated" alt=""/>
+      <caption webpage="misc-animated" alt=""/>
+    </file>
+    <file name="hexheader_red_accent_poster_.png" crc="196041165" ref="about"/>
+    <file name="hexheader_blue_accent.svg" crc="101648969" seo="true" ref="about:video:photo:experience:contact:compass:cbsi-intern-video:design:mgm:rook:year-in-review:don-t-look-down:spinach:lanterns:move-on:my-best-friend:pigeons:csa:design-copy-2:design-temp:video---commercial:video---narrative:video---personal:floormate:stride:defrosty:penguin_animation:wes:flower-power:shutter:friends-fam:animatic:personal-vids:misc-animated">
+      <caption webpage="penguin_animation" alt=""/>
+      <caption webpage="penguin_animation" alt=""/>
+      <caption webpage="penguin_animation" alt=""/>
+      <caption webpage="floormate" alt=""/>
+      <caption webpage="floormate" alt=""/>
+      <caption webpage="floormate" alt=""/>
+      <caption webpage="spinach" alt=""/>
+      <caption webpage="spinach" alt=""/>
+      <caption webpage="spinach" alt=""/>
+      <caption webpage="wes" alt=""/>
+      <caption webpage="wes" alt=""/>
+      <caption webpage="wes" alt=""/>
+      <caption webpage="compass" alt=""/>
+      <caption webpage="compass" alt=""/>
+      <caption webpage="compass" alt=""/>
+      <caption webpage="don-t-look-down" alt=""/>
+      <caption webpage="don-t-look-down" alt=""/>
+      <caption webpage="don-t-look-down" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="my-best-friend" alt=""/>
+      <caption webpage="my-best-friend" alt=""/>
+      <caption webpage="my-best-friend" alt=""/>
+      <caption webpage="csa" alt=""/>
+      <caption webpage="csa" alt=""/>
+      <caption webpage="csa" alt=""/>
+      <caption webpage="move-on" alt=""/>
+      <caption webpage="move-on" alt=""/>
+      <caption webpage="move-on" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="flower-power" alt=""/>
+      <caption webpage="flower-power" alt=""/>
+      <caption webpage="flower-power" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="lanterns" alt=""/>
+      <caption webpage="lanterns" alt=""/>
+      <caption webpage="lanterns" alt=""/>
+      <caption webpage="design-temp" alt=""/>
+      <caption webpage="design-temp" alt=""/>
+      <caption webpage="design-temp" alt=""/>
+      <caption webpage="defrosty" alt=""/>
+      <caption webpage="defrosty" alt=""/>
+      <caption webpage="defrosty" alt=""/>
+      <caption webpage="shutter" alt=""/>
+      <caption webpage="shutter" alt=""/>
+      <caption webpage="shutter" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="year-in-review" alt=""/>
+      <caption webpage="year-in-review" alt=""/>
+      <caption webpage="year-in-review" alt=""/>
+      <caption webpage="personal-vids" alt=""/>
+      <caption webpage="personal-vids" alt=""/>
+      <caption webpage="personal-vids" alt=""/>
+      <caption webpage="video---commercial" alt=""/>
+      <caption webpage="video---commercial" alt=""/>
+      <caption webpage="video---commercial" alt=""/>
+      <caption webpage="pigeons" alt=""/>
+      <caption webpage="pigeons" alt=""/>
+      <caption webpage="pigeons" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="photo" alt=""/>
+      <caption webpage="photo" alt=""/>
+      <caption webpage="photo" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="mgm" alt=""/>
+      <caption webpage="mgm" alt=""/>
+      <caption webpage="mgm" alt=""/>
+      <caption webpage="friends-fam" alt=""/>
+      <caption webpage="friends-fam" alt=""/>
+      <caption webpage="friends-fam" alt=""/>
+      <caption webpage="cbsi-intern-video" alt=""/>
+      <caption webpage="cbsi-intern-video" alt=""/>
+      <caption webpage="cbsi-intern-video" alt=""/>
+      <caption webpage="video---personal" alt=""/>
+      <caption webpage="video---personal" alt=""/>
+      <caption webpage="video---personal" alt=""/>
+      <caption webpage="video---narrative" alt=""/>
+      <caption webpage="video---narrative" alt=""/>
+      <caption webpage="video---narrative" alt=""/>
+      <caption webpage="stride" alt=""/>
+      <caption webpage="stride" alt=""/>
+      <caption webpage="stride" alt=""/>
+      <caption webpage="animatic" alt=""/>
+      <caption webpage="animatic" alt=""/>
+      <caption webpage="animatic" alt=""/>
+      <caption webpage="misc-animated" alt=""/>
+      <caption webpage="misc-animated" alt=""/>
+      <caption webpage="misc-animated" alt=""/>
+    </file>
+    <file name="hexheader_blue_accent_poster_.png" crc="3967491582" ref="about"/>
+    <file name="hexheader_yellow_accent.svg" crc="4180705877" seo="true" ref="about:video:photo:experience:contact:compass:cbsi-intern-video:design:mgm:rook:year-in-review:don-t-look-down:spinach:lanterns:move-on:my-best-friend:pigeons:csa:design-copy-2:design-temp:video---commercial:video---narrative:video---personal:floormate:stride:defrosty:penguin_animation:wes:flower-power:shutter:friends-fam:animatic:personal-vids:misc-animated">
+      <caption webpage="penguin_animation" alt=""/>
+      <caption webpage="penguin_animation" alt=""/>
+      <caption webpage="penguin_animation" alt=""/>
+      <caption webpage="floormate" alt=""/>
+      <caption webpage="floormate" alt=""/>
+      <caption webpage="floormate" alt=""/>
+      <caption webpage="spinach" alt=""/>
+      <caption webpage="spinach" alt=""/>
+      <caption webpage="spinach" alt=""/>
+      <caption webpage="wes" alt=""/>
+      <caption webpage="wes" alt=""/>
+      <caption webpage="wes" alt=""/>
+      <caption webpage="compass" alt=""/>
+      <caption webpage="compass" alt=""/>
+      <caption webpage="compass" alt=""/>
+      <caption webpage="don-t-look-down" alt=""/>
+      <caption webpage="don-t-look-down" alt=""/>
+      <caption webpage="don-t-look-down" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="my-best-friend" alt=""/>
+      <caption webpage="my-best-friend" alt=""/>
+      <caption webpage="my-best-friend" alt=""/>
+      <caption webpage="csa" alt=""/>
+      <caption webpage="csa" alt=""/>
+      <caption webpage="csa" alt=""/>
+      <caption webpage="move-on" alt=""/>
+      <caption webpage="move-on" alt=""/>
+      <caption webpage="move-on" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="flower-power" alt=""/>
+      <caption webpage="flower-power" alt=""/>
+      <caption webpage="flower-power" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="lanterns" alt=""/>
+      <caption webpage="lanterns" alt=""/>
+      <caption webpage="lanterns" alt=""/>
+      <caption webpage="design-temp" alt=""/>
+      <caption webpage="design-temp" alt=""/>
+      <caption webpage="design-temp" alt=""/>
+      <caption webpage="defrosty" alt=""/>
+      <caption webpage="defrosty" alt=""/>
+      <caption webpage="defrosty" alt=""/>
+      <caption webpage="shutter" alt=""/>
+      <caption webpage="shutter" alt=""/>
+      <caption webpage="shutter" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="year-in-review" alt=""/>
+      <caption webpage="year-in-review" alt=""/>
+      <caption webpage="year-in-review" alt=""/>
+      <caption webpage="personal-vids" alt=""/>
+      <caption webpage="personal-vids" alt=""/>
+      <caption webpage="personal-vids" alt=""/>
+      <caption webpage="video---commercial" alt=""/>
+      <caption webpage="video---commercial" alt=""/>
+      <caption webpage="video---commercial" alt=""/>
+      <caption webpage="pigeons" alt=""/>
+      <caption webpage="pigeons" alt=""/>
+      <caption webpage="pigeons" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="photo" alt=""/>
+      <caption webpage="photo" alt=""/>
+      <caption webpage="photo" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="mgm" alt=""/>
+      <caption webpage="mgm" alt=""/>
+      <caption webpage="mgm" alt=""/>
+      <caption webpage="friends-fam" alt=""/>
+      <caption webpage="friends-fam" alt=""/>
+      <caption webpage="friends-fam" alt=""/>
+      <caption webpage="cbsi-intern-video" alt=""/>
+      <caption webpage="cbsi-intern-video" alt=""/>
+      <caption webpage="cbsi-intern-video" alt=""/>
+      <caption webpage="video---personal" alt=""/>
+      <caption webpage="video---personal" alt=""/>
+      <caption webpage="video---personal" alt=""/>
+      <caption webpage="video---narrative" alt=""/>
+      <caption webpage="video---narrative" alt=""/>
+      <caption webpage="video---narrative" alt=""/>
+      <caption webpage="stride" alt=""/>
+      <caption webpage="stride" alt=""/>
+      <caption webpage="stride" alt=""/>
+      <caption webpage="animatic" alt=""/>
+      <caption webpage="animatic" alt=""/>
+      <caption webpage="animatic" alt=""/>
+      <caption webpage="misc-animated" alt=""/>
+      <caption webpage="misc-animated" alt=""/>
+      <caption webpage="misc-animated" alt=""/>
+    </file>
+    <file name="hexheader_yellow_accent_poster_.png" crc="504857984" ref="about"/>
+    <file name="2021-03_yosemite_laurenfan-2792-downres.jpg" crc="4246578603" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="000035900025.jpg" crc="50962598" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="4864-29.jpg" crc="202252885" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="4864-19-2.jpg" crc="3807807140" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="social_linkedin.jpg" crc="3954825924" seo="true" ref="about:video:photo:experience:contact:compass:cbsi-intern-video:design:mgm:rook:year-in-review:don-t-look-down:spinach:lanterns:move-on:my-best-friend:pigeons:csa:design-copy-2:design-temp:video---commercial:video---narrative:video---personal:floormate:stride:defrosty:penguin_animation:wes:flower-power:shutter:friends-fam:animatic:personal-vids:misc-animated">
+      <caption webpage="penguin_animation" alt=""/>
+      <caption webpage="floormate" alt=""/>
+      <caption webpage="spinach" alt=""/>
+      <caption webpage="wes" alt=""/>
+      <caption webpage="compass" alt=""/>
+      <caption webpage="don-t-look-down" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="my-best-friend" alt=""/>
+      <caption webpage="csa" alt=""/>
+      <caption webpage="move-on" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="flower-power" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="lanterns" alt=""/>
+      <caption webpage="design-temp" alt=""/>
+      <caption webpage="defrosty" alt=""/>
+      <caption webpage="shutter" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="year-in-review" alt=""/>
+      <caption webpage="personal-vids" alt=""/>
+      <caption webpage="video---commercial" alt=""/>
+      <caption webpage="pigeons" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="photo" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="mgm" alt=""/>
+      <caption webpage="friends-fam" alt=""/>
+      <caption webpage="cbsi-intern-video" alt=""/>
+      <caption webpage="video---personal" alt=""/>
+      <caption webpage="video---narrative" alt=""/>
+      <caption webpage="stride" alt=""/>
+      <caption webpage="animatic" alt=""/>
+      <caption webpage="misc-animated" alt=""/>
+    </file>
+    <file name="social_vimeo.png" crc="439484032" seo="true" ref="about:video:photo:experience:contact:compass:cbsi-intern-video:design:mgm:rook:year-in-review:don-t-look-down:spinach:lanterns:move-on:my-best-friend:pigeons:csa:design-copy-2:design-temp:video---commercial:video---narrative:video---personal:floormate:stride:defrosty:penguin_animation:wes:flower-power:shutter:friends-fam:animatic:personal-vids:misc-animated">
+      <caption webpage="penguin_animation" alt=""/>
+      <caption webpage="floormate" alt=""/>
+      <caption webpage="spinach" alt=""/>
+      <caption webpage="wes" alt=""/>
+      <caption webpage="compass" alt=""/>
+      <caption webpage="don-t-look-down" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="my-best-friend" alt=""/>
+      <caption webpage="csa" alt=""/>
+      <caption webpage="move-on" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="flower-power" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="lanterns" alt=""/>
+      <caption webpage="design-temp" alt=""/>
+      <caption webpage="defrosty" alt=""/>
+      <caption webpage="shutter" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="year-in-review" alt=""/>
+      <caption webpage="personal-vids" alt=""/>
+      <caption webpage="video---commercial" alt=""/>
+      <caption webpage="pigeons" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="photo" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="mgm" alt=""/>
+      <caption webpage="friends-fam" alt=""/>
+      <caption webpage="cbsi-intern-video" alt=""/>
+      <caption webpage="video---personal" alt=""/>
+      <caption webpage="video---narrative" alt=""/>
+      <caption webpage="stride" alt=""/>
+      <caption webpage="animatic" alt=""/>
+      <caption webpage="misc-animated" alt=""/>
+    </file>
+    <file name="social_youtube.svg" crc="384457057" seo="true" ref="about:video:photo:experience:contact:compass:cbsi-intern-video:design:mgm:rook:year-in-review:don-t-look-down:spinach:lanterns:move-on:my-best-friend:pigeons:csa:design-copy-2:design-temp:video---commercial:video---narrative:video---personal:floormate:stride:defrosty:penguin_animation:wes:flower-power:shutter:friends-fam:animatic:personal-vids:misc-animated">
+      <caption webpage="penguin_animation" alt=""/>
+      <caption webpage="floormate" alt=""/>
+      <caption webpage="spinach" alt=""/>
+      <caption webpage="wes" alt=""/>
+      <caption webpage="compass" alt=""/>
+      <caption webpage="don-t-look-down" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="my-best-friend" alt=""/>
+      <caption webpage="csa" alt=""/>
+      <caption webpage="move-on" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="flower-power" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="lanterns" alt=""/>
+      <caption webpage="design-temp" alt=""/>
+      <caption webpage="defrosty" alt=""/>
+      <caption webpage="shutter" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="year-in-review" alt=""/>
+      <caption webpage="personal-vids" alt=""/>
+      <caption webpage="video---commercial" alt=""/>
+      <caption webpage="pigeons" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="photo" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="mgm" alt=""/>
+      <caption webpage="friends-fam" alt=""/>
+      <caption webpage="cbsi-intern-video" alt=""/>
+      <caption webpage="video---personal" alt=""/>
+      <caption webpage="video---narrative" alt=""/>
+      <caption webpage="stride" alt=""/>
+      <caption webpage="animatic" alt=""/>
+      <caption webpage="misc-animated" alt=""/>
+    </file>
+    <file name="social_youtube_poster_.png" crc="168130519" ref="about"/>
+    <file name="social_darkroom.png" crc="436960594" seo="true" ref="about:video:photo:experience:contact:compass:cbsi-intern-video:design:mgm:rook:year-in-review:don-t-look-down:spinach:lanterns:move-on:my-best-friend:pigeons:csa:design-copy-2:design-temp:video---commercial:video---narrative:video---personal:floormate:stride:defrosty:penguin_animation:wes:flower-power:shutter:friends-fam:animatic:personal-vids:misc-animated">
+      <caption webpage="penguin_animation" alt=""/>
+      <caption webpage="floormate" alt=""/>
+      <caption webpage="spinach" alt=""/>
+      <caption webpage="wes" alt=""/>
+      <caption webpage="compass" alt=""/>
+      <caption webpage="don-t-look-down" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="my-best-friend" alt=""/>
+      <caption webpage="csa" alt=""/>
+      <caption webpage="move-on" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="flower-power" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="lanterns" alt=""/>
+      <caption webpage="design-temp" alt=""/>
+      <caption webpage="defrosty" alt=""/>
+      <caption webpage="shutter" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="year-in-review" alt=""/>
+      <caption webpage="personal-vids" alt=""/>
+      <caption webpage="video---commercial" alt=""/>
+      <caption webpage="pigeons" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="photo" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="mgm" alt=""/>
+      <caption webpage="friends-fam" alt=""/>
+      <caption webpage="cbsi-intern-video" alt=""/>
+      <caption webpage="video---personal" alt=""/>
+      <caption webpage="video---narrative" alt=""/>
+      <caption webpage="stride" alt=""/>
+      <caption webpage="animatic" alt=""/>
+      <caption webpage="misc-animated" alt=""/>
+    </file>
+    <file name="social_instagram4.png" crc="375861868" seo="true" ref="about:video:photo:experience:contact:compass:cbsi-intern-video:design:mgm:rook:year-in-review:don-t-look-down:spinach:lanterns:move-on:my-best-friend:pigeons:csa:design-copy-2:design-temp:video---commercial:video---narrative:video---personal:floormate:stride:defrosty:penguin_animation:wes:flower-power:shutter:friends-fam:animatic:personal-vids:misc-animated">
+      <caption webpage="penguin_animation" alt=""/>
+      <caption webpage="floormate" alt=""/>
+      <caption webpage="spinach" alt=""/>
+      <caption webpage="wes" alt=""/>
+      <caption webpage="compass" alt=""/>
+      <caption webpage="don-t-look-down" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="my-best-friend" alt=""/>
+      <caption webpage="csa" alt=""/>
+      <caption webpage="move-on" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="flower-power" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="lanterns" alt=""/>
+      <caption webpage="design-temp" alt=""/>
+      <caption webpage="defrosty" alt=""/>
+      <caption webpage="shutter" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="year-in-review" alt=""/>
+      <caption webpage="personal-vids" alt=""/>
+      <caption webpage="video---commercial" alt=""/>
+      <caption webpage="pigeons" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="photo" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="mgm" alt=""/>
+      <caption webpage="friends-fam" alt=""/>
+      <caption webpage="cbsi-intern-video" alt=""/>
+      <caption webpage="video---personal" alt=""/>
+      <caption webpage="video---narrative" alt=""/>
+      <caption webpage="stride" alt=""/>
+      <caption webpage="animatic" alt=""/>
+      <caption webpage="misc-animated" alt=""/>
+    </file>
+    <file name="sort_redcircle.svg" crc="4146030167" seo="true" ref="video:design:design-copy-2:video---commercial:defrosty">
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video---commercial" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="defrosty" alt=""/>
+    </file>
+    <file name="sort_redcircle_poster_.png" crc="497204122" ref="video"/>
+    <file name="sort_bluecircle.svg" crc="3803644337" seo="true" ref="video:design:design-copy-2:video---personal:stride">
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="stride" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video---personal" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+    </file>
+    <file name="sort_bluecircle_poster_.png" crc="436961596" ref="video"/>
+    <file name="201507_mgm.jpg" crc="297030109" seo="true" ref="video:video---commercial">
+      <caption webpage="video" alt=""/>
+      <caption webpage="video---commercial" alt=""/>
+    </file>
+    <file name="201409 cbsi intern video.jpg" crc="4221572273" seo="true" ref="video:video---commercial">
+      <caption webpage="video" alt=""/>
+      <caption webpage="video---commercial" alt=""/>
+    </file>
+    <file name="shutter.jpg" crc="4204276083" seo="true" ref="video:video---narrative:video---personal">
+      <caption webpage="video" alt=""/>
+      <caption webpage="video---personal" alt=""/>
+      <caption webpage="video---narrative" alt=""/>
+    </file>
+    <file name="rook1.jpg" crc="367578136" seo="true" ref="video:video---commercial">
+      <caption webpage="video" alt=""/>
+      <caption webpage="video---commercial" alt=""/>
+    </file>
+    <file name="201306 dont look down.jpg" crc="4239214117" seo="true" ref="video:video---commercial:video---personal">
+      <caption webpage="video" alt=""/>
+      <caption webpage="video---commercial" alt=""/>
+      <caption webpage="video---personal" alt=""/>
+    </file>
+    <file name="201504 animated preview.jpg" crc="3982944253" seo="true" ref="video:video---narrative:video---personal:penguin_animation">
+      <caption webpage="penguin_animation" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video---personal" alt=""/>
+      <caption webpage="video---narrative" alt=""/>
+    </file>
+    <file name="photo portfolio temp 2021.jpg" crc="4171263918" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="sails.jpg" crc="3856813553" seo="true" ref="photo">
+      <caption webpage="photo" alt="Sails and Sunshine (2015)"/>
+    </file>
+    <file name="appleblossomsbev_748_320.jpg" crc="3824948471" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="jars_640.jpg" crc="3966734578" seo="true" ref="photo">
+      <caption webpage="photo" alt="Jars (2015)"/>
+    </file>
+    <file name="landofthefree_640.jpg" crc="512744821" seo="true" ref="photo">
+      <caption webpage="photo" alt="Land of the Free (2015)"/>
+    </file>
+    <file name="goprosf_640.jpg" crc="4052948942" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="winterfalls_640.jpg" crc="359900544" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="lincolnst_640.jpg" crc="4176019125" seo="true" ref="photo">
+      <caption webpage="photo" alt="Lincoln St. (2016)"/>
+    </file>
+    <file name="cousins_320.jpg" crc="416959545" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="perseids_850.jpg" crc="371692367" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="cheers_640.jpg" crc="3790864696" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="adventurer.jpg" crc="3827298381" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="haleytia_640.jpg" crc="396954347" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="lydia_doubleexp_640.jpg" crc="278645928" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="appleblossoms_640.jpg" crc="217836353" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="celebrasia_monkey_640.jpg" crc="48038955" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="neonlights_640.jpg" crc="130685078" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="alfajoresbev_640.jpg" crc="4281165812" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="norriscloud_640.jpg" crc="31378135" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="lanterns_640.jpg" crc="532090408" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="panasianformal_dance_640.jpg" crc="4134920341" seo="true" ref="photo:csa">
+      <caption webpage="photo" alt=""/>
+      <caption webpage="csa" alt=""/>
+    </file>
+    <file name="landofthefree_blue_640.jpg" crc="296783062" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="fruittart_640.jpg" crc="3844019884" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="bean_640.jpg" crc="442808152" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="star2_640.jpg" crc="3892105912" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="temp img 2070.png" crc="401323677" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="contact_getintouch.png" crc="3793206080" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="sort_yellowcircle.svg" crc="4088374709" seo="true" ref="compass:design:design-copy-2:video---narrative:floormate">
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="floormate" alt=""/>
+      <caption webpage="compass" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="video---narrative" alt=""/>
+    </file>
+    <file name="sort_yellowcircle_poster_.png" crc="3762186991" ref="compass"/>
+    <file name="ext_link_red.svg" crc="4020157775" seo="true" ref="compass:design:design-copy-2:floormate:stride:defrosty">
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="floormate" alt=""/>
+      <caption webpage="stride" alt=""/>
+      <caption webpage="compass" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+      <caption webpage="defrosty" alt=""/>
+    </file>
+    <file name="ext_link_red_poster_.png" crc="3960661537" ref="compass"/>
+    <file name="stakeholder map.png" crc="40984484" seo="true" ref="compass">
+      <caption webpage="compass" alt=""/>
+    </file>
+    <file name="nu students and career stress.png" crc="4052397606" seo="true" ref="compass">
+      <caption webpage="compass" alt=""/>
+    </file>
+    <file name="pov.png" crc="4174973984" seo="true" ref="compass">
+      <caption webpage="compass" alt=""/>
+    </file>
+    <file name="nu students career stress 2.png" crc="16329006" seo="true" ref="compass">
+      <caption webpage="compass" alt=""/>
+    </file>
+    <file name="personas.png" crc="4227809600" seo="true" ref="compass">
+      <caption webpage="compass" alt=""/>
+    </file>
+    <file name="service blueprint.png" crc="354788279" seo="true" ref="compass">
+      <caption webpage="compass" alt=""/>
+    </file>
+    <file name="image 2.jpg" crc="4117701511" seo="true" ref="compass">
+      <caption webpage="compass" alt=""/>
+    </file>
+    <file name="p1050365.jpg" crc="3769372240" seo="true" ref="compass">
+      <caption webpage="compass" alt=""/>
+    </file>
+    <file name="mug render.jpg" crc="3768091169" seo="true" ref="design:design-copy-2">
+      <caption webpage="design" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+    </file>
+    <file name="201504 animated preview204x116.jpg" crc="4236122442" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="fontfinder_screen-crop-u80205.png" crc="4125142021" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="narwhal_title_minimalist.png" crc="462124129" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="380_loop_thumbnail.png" crc="33665620" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="kontur.png" crc="3853936508" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="compass_logo.jpg" crc="4264127055" seo="true" ref="design:design-copy-2">
+      <caption webpage="design" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+    </file>
+    <file name="stride just stride2.png" crc="4127959956" seo="true" ref="design:design-copy-2">
+      <caption webpage="design" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+    </file>
+    <file name="arrow_sq_blue.svg" crc="81333492" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="arrow_sq_blue_poster_.png" crc="27500845" ref="design"/>
+    <file name="screen shot 2016-02-10 at 42431 am.jpg" crc="4146011499" seo="true" ref="design:design-copy-2">
+      <caption webpage="design" alt=""/>
+      <caption webpage="design-copy-2" alt=""/>
+    </file>
+    <file name="arrow_sq_yellow.svg" crc="3790821326" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="arrow_sq_yellow_poster_.png" crc="3829123716" ref="design"/>
+    <file name="lastdance_640.jpg" crc="3868834816" seo="true" ref="csa">
+      <caption webpage="csa" alt=""/>
+    </file>
+    <file name="defrosty_logo166x160.jpg" crc="3809678525" seo="true" ref="design-copy-2">
+      <caption webpage="design-copy-2" alt=""/>
+    </file>
+    <file name="bauhaus_designphilosophy.jpg" crc="4144646940" seo="true" ref="design-copy-2">
+      <caption webpage="design-copy-2" alt=""/>
+    </file>
+    <file name="pasted image 480x200.png" crc="118904771" seo="true" ref="design-temp">
+      <caption webpage="design-temp" alt=""/>
+    </file>
+    <file name="201505 nuvc thumbnail.png" crc="7296428" seo="true" ref="video---commercial">
+      <caption webpage="video---commercial" alt=""/>
+    </file>
+    <file name="201405 csa gameshow.jpg" crc="4226259674" seo="true" ref="video---commercial">
+      <caption webpage="video---commercial" alt=""/>
+    </file>
+    <file name="2012 move on.jpg" crc="4163623905" seo="true" ref="video---narrative">
+      <caption webpage="video---narrative" alt=""/>
+    </file>
+    <file name="2012 my best friend.jpg" crc="4237518711" seo="true" ref="video---narrative">
+      <caption webpage="video---narrative" alt=""/>
+    </file>
+    <file name="2016 flowerpower.png" crc="3770407571" seo="true" ref="video---narrative:video---personal">
+      <caption webpage="video---personal" alt=""/>
+      <caption webpage="video---narrative" alt=""/>
+    </file>
+    <file name="201401_spinach.png" crc="407981986" seo="true" ref="video---narrative">
+      <caption webpage="video---narrative" alt=""/>
+    </file>
+    <file name="201312 2013.jpg" crc="4275264541" seo="true" ref="video---personal">
+      <caption webpage="video---personal" alt=""/>
+    </file>
+    <file name="2013 lanterns.jpg" crc="3812769618" seo="true" ref="video---personal">
+      <caption webpage="video---personal" alt=""/>
+    </file>
+    <file name="2015 wes_culinary.jpg" crc="3818407692" seo="true" ref="video---personal">
+      <caption webpage="video---personal" alt=""/>
+    </file>
+    <file name="floormate_sidebyside.png" crc="494706789" seo="true" ref="floormate">
+      <caption webpage="floormate" alt=""/>
+    </file>
+    <file name="postits_hcw.jpg" crc="4061945414" seo="true" ref="floormate">
+      <caption webpage="floormate" alt=""/>
+    </file>
+    <file name="screen shot 2016-02-10 at 44108 am.png" crc="3831299259" seo="true" ref="floormate">
+      <caption webpage="floormate" alt=""/>
+    </file>
+    <file name="persona1.png" crc="3829841809" seo="true" ref="floormate">
+      <caption webpage="floormate" alt=""/>
+    </file>
+    <file name="persona3.png" crc="374452497" seo="true" ref="floormate">
+      <caption webpage="floormate" alt=""/>
+    </file>
+    <file name="persona2.png" crc="374774074" seo="true" ref="floormate">
+      <caption webpage="floormate" alt=""/>
+    </file>
+    <file name="img_2713.jpg" crc="290836286" seo="true" ref="floormate">
+      <caption webpage="floormate" alt=""/>
+    </file>
+    <file name="screen shot 2016-02-10 at 44349 am.png" crc="4257049112" seo="true" ref="floormate">
+      <caption webpage="floormate" alt=""/>
+    </file>
+    <file name="prototyping.jpg" crc="245920777" seo="true" ref="floormate">
+      <caption webpage="floormate" alt=""/>
+    </file>
+    <file name="img_2806.jpg" crc="220932784" seo="true" ref="floormate">
+      <caption webpage="floormate" alt=""/>
+    </file>
+    <file name="img_2772.jpg" crc="476225781" seo="true" ref="floormate">
+      <caption webpage="floormate" alt=""/>
+    </file>
+    <file name="screen shot 2016-02-10 at 44356 am-crop-u77484.png" crc="3954454835" seo="true" ref="floormate">
+      <caption webpage="floormate" alt=""/>
+    </file>
+    <file name="homescreen_orig.png" crc="4115226635" seo="true" ref="floormate">
+      <caption webpage="floormate" alt=""/>
+    </file>
+    <file name="screen shot 2016-02-10 at 42414 am.png" crc="254394119" seo="true" ref="floormate">
+      <caption webpage="floormate" alt=""/>
+    </file>
+    <file name="screen shot 2016-02-10 at 42439 am.png" crc="477173127" seo="true" ref="floormate">
+      <caption webpage="floormate" alt=""/>
+    </file>
+    <file name="screen shot 2016-02-10 at 42446 am.png" crc="4055046179" seo="true" ref="floormate">
+      <caption webpage="floormate" alt=""/>
+    </file>
+    <file name="stride render.jpg" crc="4178913901" seo="true" ref="stride">
+      <caption webpage="stride" alt=""/>
+    </file>
+    <file name="mind-map.jpg" crc="3771417357" seo="true" ref="stride">
+      <caption webpage="stride" alt=""/>
+    </file>
+    <file name="320 final mood board.jpg" crc="3813801178" seo="true" ref="stride">
+      <caption webpage="stride" alt=""/>
+    </file>
+    <file name="persona22.png" crc="4243490119" seo="true" ref="stride">
+      <caption webpage="stride" alt=""/>
+    </file>
+    <file name="sketch2.jpg" crc="530318033" seo="true" ref="stride">
+      <caption webpage="stride" alt=""/>
+    </file>
+    <file name="sketch1.jpg" crc="4190949773" seo="true" ref="stride">
+      <caption webpage="stride" alt=""/>
+    </file>
+    <file name="sketch3.jpg" crc="4278852781" seo="true" ref="stride">
+      <caption webpage="stride" alt=""/>
+    </file>
+    <file name="stride sketch.jpg" crc="3929937585" seo="true" ref="stride">
+      <caption webpage="stride" alt=""/>
+    </file>
+    <file name="stride storyboard.jpg" crc="4025400808" seo="true" ref="stride">
+      <caption webpage="stride" alt=""/>
+    </file>
+    <file name="defrosty_logo.jpg" crc="4045580427" seo="true" ref="defrosty">
+      <caption webpage="defrosty" alt=""/>
+    </file>
+    <file name="defrosty_render-crop-u77908.png" crc="3913522453" seo="true" ref="defrosty">
+      <caption webpage="defrosty" alt=""/>
+    </file>
+    <file name="img_5915.jpg" crc="4091197324" seo="true" ref="defrosty">
+      <caption webpage="defrosty" alt=""/>
+    </file>
+    <file name="steakholders.png" crc="208353273" seo="true" ref="defrosty">
+      <caption webpage="defrosty" alt=""/>
+    </file>
+    <file name="value chain analysis.png" crc="389026247" seo="true" ref="defrosty">
+      <caption webpage="defrosty" alt=""/>
+    </file>
+    <file name="initial market survey.png" crc="4069550113" seo="true" ref="defrosty">
+      <caption webpage="defrosty" alt=""/>
+    </file>
+    <file name="competitive benchmarking.png" crc="4238703560" seo="true" ref="defrosty">
+      <caption webpage="defrosty" alt=""/>
+    </file>
+    <file name="patent benchmarking.png" crc="249249457" seo="true" ref="defrosty">
+      <caption webpage="defrosty" alt=""/>
+    </file>
+    <file name="img_6507.jpg" crc="67241320" seo="true" ref="defrosty">
+      <caption webpage="defrosty" alt=""/>
+    </file>
+    <file name="prototype3_usercentered.png" crc="30161686" seo="true" ref="defrosty">
+      <caption webpage="defrosty" alt=""/>
+    </file>
+    <file name="prototype3_comparison.png" crc="386167484" seo="true" ref="defrosty">
+      <caption webpage="defrosty" alt=""/>
+    </file>
+    <file name="defrosty_finalconceptrender.png" crc="4242016345" seo="true" ref="defrosty">
+      <caption webpage="defrosty" alt=""/>
+    </file>
+    <file name="frozenmeat_snowprob-crop-u78073.png" crc="107464063" seo="true" ref="defrosty">
+      <caption webpage="defrosty" alt=""/>
+    </file>
+    <file name="frozenmeat_snowprob2-crop-u78081.png" crc="384268485" seo="true" ref="defrosty">
+      <caption webpage="defrosty" alt=""/>
+    </file>
+    <file name="0220 penguin_front.png" crc="4139454741" seo="true" ref="penguin_animation">
+      <caption webpage="penguin_animation" alt=""/>
+    </file>
+    <file name="0220 penguin_side.png" crc="501575927" seo="true" ref="penguin_animation">
+      <caption webpage="penguin_animation" alt=""/>
+    </file>
+    <file name="0220 polarbear.png" crc="4088132187" seo="true" ref="penguin_animation">
+      <caption webpage="penguin_animation" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3845925077" seo="true" mt="1693984002476" redirect="true"/>
+  <file name="about.html" crc="39466948" seo="true" mt="1694579057552" redirect="true"/>
+  <file name="video.html" crc="437679790" seo="true" mt="1693986706988" redirect="true"/>
+  <file name="photo.html" crc="4096957738" seo="true" mt="1693984339011" redirect="true"/>
+  <file name="experience.html" crc="376695521" seo="true" mt="1693984339011" redirect="true"/>
+  <file name="contact.html" crc="364882805" seo="true" mt="1693984339011" redirect="true"/>
+  <file name="compass.html" crc="534477612" seo="true" mt="1693984666874" redirect="true"/>
+  <file name="cbsi-intern-video-copy.html" crc="310735213" seo="true" mt="1693984885452" redirect="true"/>
+  <file name="cbsi-intern-video.html" crc="4246792060" seo="true" mt="1693984339011" redirect="true"/>
+  <file name="design.html" crc="3894704658" seo="true" mt="1693984447725" redirect="true"/>
+  <file name="mgm.html" crc="415074230" seo="true" mt="1693984339011" redirect="true"/>
+  <file name="rook.html" crc="3860936758" seo="true" mt="1693984339011" redirect="true"/>
+  <file name="year-in-review.html" crc="18257677" seo="true" mt="1693984845651" redirect="true"/>
+  <file name="don-t-look-down.html" crc="260968101" seo="true" mt="1693984819371" redirect="true"/>
+  <file name="spinach.html" crc="369333556" seo="true" mt="1693984754400" redirect="true"/>
+  <file name="lanterns.html" crc="3853189845" seo="true" mt="1693984740231" redirect="true"/>
+  <file name="move-on.html" crc="4206563991" seo="true" mt="1693984774660" redirect="true"/>
+  <file name="my-best-friend.html" crc="4183620356" seo="true" mt="1693984732237" redirect="true"/>
+  <file name="pigeons.html" crc="130878519" seo="true" mt="1693984713258" redirect="true"/>
+  <file name="csa.html" crc="4276093614" seo="true" mt="1693984725719" redirect="true"/>
+  <file name="design-copy-2.html" crc="4210166883" seo="true" mt="1693985141526" redirect="true"/>
+  <file name="design-temp.html" crc="481051275" seo="true" mt="1693984677710" redirect="true"/>
+  <file name="video---commercial.html" crc="501846471" seo="true" mt="1693984867945" redirect="true"/>
+  <file name="video---narrative.html" crc="4279204225" seo="true" mt="1693984858768" redirect="true"/>
+  <file name="video---personal.html" crc="296980315" seo="true" mt="1693984850129" redirect="true"/>
+  <file name="floormate.html" crc="4211370228" seo="true" mt="1693984655386" redirect="true"/>
+  <file name="stride.html" crc="382070161" seo="true" mt="1693984619171" redirect="true"/>
+  <file name="defrosty.html" crc="107602208" seo="true" mt="1693984605637" redirect="true"/>
+  <file name="penguin_animation.html" crc="256502805" seo="true" mt="1693984813182" redirect="true"/>
+  <file name="wes.html" crc="43265393" seo="true" mt="1693984794833" redirect="true"/>
+  <file name="flower-power.html" crc="3848426713" seo="true" mt="1693984766495" redirect="true"/>
+  <file name="shutter.html" crc="4032819701" seo="true" mt="1693984339011" redirect="true"/>
+  <file name="friends-fam.html" crc="32956184" seo="true" mt="1693984339011" redirect="true"/>
+  <file name="animatic.html" crc="341863348" seo="true" mt="1708493199543" redirect="true"/>
+  <file name="personal-vids.html" crc="130283972" seo="true" mt="1693984339011" redirect="true"/>
+  <file name="misc-animated.html" crc="323794516" seo="true" mt="1693986365590" redirect="true"/>
+</manifest>
